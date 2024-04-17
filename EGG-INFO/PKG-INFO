@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: simplecv
+Version: 0.3.4
+Summary: Simplify training, evaluation, prediction in Pytorch
+Home-page: https://github.com/Z-Zheng/simplecv.git
+Author: Zhuo Zheng
+Author-email: zhuozheng_2017@163.com
+License: MIT
+Keywords: computer vision using pytorch 1.0
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Utilities
+License-File: LICENSE

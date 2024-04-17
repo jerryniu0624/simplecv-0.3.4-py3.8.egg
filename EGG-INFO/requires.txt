@@ -1,0 +1,5 @@
+numpy>=1.11.1
+tensorboardX==1.7
+prettytable
+Pillow
+albumentations==0.4.2
